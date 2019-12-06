@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Find Food</string>
+    <string name="agree">when you submit any form, including, but not limited to, application forms or forms related to our products and services, both online and in physical form</string>
+    <string name="forget">We just need your registered Email id to send you password reset instructions</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="penyetan_ayam">Penyetan Ayam</string>
+</resources>
